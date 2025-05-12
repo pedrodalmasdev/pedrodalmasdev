@@ -1,7 +1,7 @@
 
 ## I'm Pedro Dalmas 👋
 
-I'm currently pursuing a degree in Software Engineering, where I spend my days writing code, solving problems, and occasionally wondering if semicolons have feelings. I’m passionate about building things that work — and even more about learning from the ones that almost do. When I’m not debugging at odd hours, I’m usually wandering in Arduino projects or getting lost in a tech article, both with aa cup of coffee with definitely healthy proportions by my side. I care deeply about clean code, thoughtful design, and staying curious in everything I do.
+I'm currently pursuing a degree in Software Engineering, where I spend my days writing code, solving problems, and occasionally wondering if semicolons have feelings. I’m passionate about building things that work — and even more about learning from the ones that almost do. When I’m not debugging at odd hours, I’m usually wandering in Arduino projects or getting lost in a tech article, both with a cup of coffee with definitely healthy proportions by my side. I care deeply about clean code, thoughtful design, and staying curious in everything I do.
 
 "Respect for life requires that science and technology should always be at the service of man and his integral development."
 
