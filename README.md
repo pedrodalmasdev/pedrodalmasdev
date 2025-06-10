@@ -11,13 +11,7 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodalmasdev&theme=algolia&layout=compact)](https://github.com/pedrodalmasdev/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/pedrodalmasdev?template=classic&base=habits&plugin_habits=yes&plugin_habits.from=200&plugin_habits.days=14&repositories_affiliations=owner&config.timezone=America/Sao_Paulo)
-
-### This Week I Spent My Time On 👨‍💻
-
-<!--START_SECTION:waka-->
-<!--This section will be automatically filled by the wakatime.yml action-->
-<!--END_SECTION:waka-->
+![Metrics](https://github.com/pedrodalmasdev/pedrodalmasdev/blob/main/github-metrics.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrodalmasdev&icon=0&color=0)](https://visitcount.itsvg.in)
