@@ -13,7 +13,4 @@ jobs:
           user: pedrodalmasdev
           base: habits
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
           config_timezone: America/Sao_Paulo
