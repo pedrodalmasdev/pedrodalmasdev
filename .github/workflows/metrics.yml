@@ -6,6 +6,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -13,4 +15,7 @@ jobs:
           user: pedrodalmasdev
           base: habits
           plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          repositories_affiliations: owner
           config_timezone: America/Sao_Paulo
