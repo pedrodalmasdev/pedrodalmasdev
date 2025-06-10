@@ -12,6 +12,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity
           config_timezone: America/Sao_Paulo
+          filename: github-metrics.svg
+
+          # Plugins
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_followup: yes
