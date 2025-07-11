@@ -40,7 +40,4 @@ Sunday                   0 commits           ░░░░░░░░░░░�
  Last Updated on 11/07/2025 20:17:45 UTC
 <!--END_SECTION:waka-->
 
-## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodalmasdev&theme=algolia&layout=compact)](https://github.com/pedrodalmasdev/github-readme-stats)
-
 ---
