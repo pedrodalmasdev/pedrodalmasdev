@@ -11,4 +11,9 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodalmasdev&theme=algolia&layout=compact)](https://github.com/pedrodalmasdev/github-readme-stats)
 
+<p align="center">
+  <!-- To get your own visit counter, change the "id" to your GitHub username -->
+  <img src="https://visitcount.itsvg.in/api?id=pedrodalmasdev&icon=0&color=12">
+</p>
+
 ---
