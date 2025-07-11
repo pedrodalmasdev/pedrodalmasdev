@@ -14,18 +14,6 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 28.8 kB Used in GitHub's Storage 
- > 
-> 🏆 145 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
