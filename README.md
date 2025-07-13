@@ -18,6 +18,8 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 
 > 📦 28.8 kB Used in GitHub's Storage 
  > 
+> 🏆 150 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -75,7 +77,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrodalmasdev/pedrodalmasdev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 18:47:11 UTC
+ Last Updated on 13/07/2025 18:46:44 UTC
 <!--END_SECTION:waka-->
 
 ---
