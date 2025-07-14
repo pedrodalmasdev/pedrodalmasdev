@@ -10,22 +10,6 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 28.8 kB Used in GitHub's Storage 
- > 
-> 🏆 151 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -51,39 +35,6 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-JavaScript               53 mins             ████████████░░░░░░░░░░░░░   48.94 % 
-Docker                   37 mins             █████████░░░░░░░░░░░░░░░░   34.31 % 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-
-🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ellis-main               49 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
-js-curso-2-aula1         47 mins             ███████████░░░░░░░░░░░░░░   43.20 % 
-3386-git-github-projeto_i12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-
-💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     4 repos             ████████████████████░░░░░   80.00 % 
-CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/pedrodalmasdev/pedrodalmasdev/main/assets/bar_graph.png)
-
 
  Last Updated on 14/07/2025 17:49:04 UTC
 <!--END_SECTION:waka-->
