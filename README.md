@@ -18,20 +18,7 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 🌃 Evening                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Tuesday                  56 commits          ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Friday                   57 commits          ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodalmasdev&show_icons=true&theme=gruvbox)
 
 ```text
 🕑︎ Time Zone: America/Sao_Paulo
