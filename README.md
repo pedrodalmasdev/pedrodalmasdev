@@ -10,8 +10,35 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 28/09/2025 18:41:35 UTC
+```text
+🌞 Morning                103 commits         ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌆 Daytime                171 commits         █████████████░░░░░░░░░░░░   52.94 % 
+🌃 Evening                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Tuesday                  124 commits         ██████████░░░░░░░░░░░░░░░   38.39 % 
+Wednesday                63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Friday                   76 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+```
+
+
+ Last Updated on 29/09/2025 14:06:17 UTC
 <!--END_SECTION:waka-->
 
 ---
