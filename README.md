@@ -10,35 +10,8 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                106 commits         ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌆 Daytime                180 commits         █████████████░░░░░░░░░░░░   53.10 % 
-🌃 Evening                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Tuesday                  120 commits         █████████░░░░░░░░░░░░░░░░   35.40 % 
-Wednesday                72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Thursday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Friday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-```
-
-
- Last Updated on 02/11/2025 18:42:10 UTC
+ Last Updated on 03/11/2025 18:44:24 UTC
 <!--END_SECTION:waka-->
 
 ---
