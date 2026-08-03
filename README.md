@@ -12,6 +12,10 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 <!--START_SECTION:waka-->
 
 ```txt
+From: 27 July 2026 - To: 03 August 2026
+
+Total Time: 6 mins
+
 Python   6 mins                █████████████████████████   100.00 %
 ```
 
