@@ -13,25 +13,24 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌆 Daytime                193 commits         █████████████░░░░░░░░░░░░   52.88 % 
-🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌆 Daytime                195 commits         █████████████░░░░░░░░░░░░   53.13 % 
+🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-
-
-**I Mostly Code in JavaScript** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Monday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Tuesday                  142 commits         ██████████░░░░░░░░░░░░░░░   38.69 % 
+Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Friday                   75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
 
-
- Last Updated on 04/08/2026 17:23:29 UTC
+ Last Updated on 04/08/2026 17:25:44 UTC
 <!--END_SECTION:waka-->
