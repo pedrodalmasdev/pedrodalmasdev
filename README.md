@@ -10,27 +10,29 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-201.45%20thousand%20lines%20of%20code-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   31.88 % 
-🌆 Daytime                195 commits         █████████████░░░░░░░░░░░░   53.13 % 
-🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   31.79 % 
+🌆 Daytime                196 commits         █████████████░░░░░░░░░░░░   53.26 % 
+🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Tuesday                  142 commits         ██████████░░░░░░░░░░░░░░░   38.69 % 
-Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Friday                   75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Monday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Tuesday                  143 commits         ██████████░░░░░░░░░░░░░░░   38.86 % 
+Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Friday                   75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
 
- Last Updated on 04/08/2026 17:25:44 UTC
+ Last Updated on 04/08/2026 17:27:32 UTC
 <!--END_SECTION:waka-->
