@@ -10,29 +10,29 @@ I'm currently pursuing a degree in Software Engineering, where I spend my days w
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203.67%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205.74%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.08 % 
-🌆 Daytime                202 commits         █████████████░░░░░░░░░░░░   51.93 % 
-🌃 Evening                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌞 Morning                117 commits         ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌆 Daytime                207 commits         █████████████░░░░░░░░░░░░   52.54 % 
+🌃 Evening                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   79 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Tuesday                  146 commits         █████████░░░░░░░░░░░░░░░░   37.53 % 
-Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Friday                   75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Monday                   79 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Tuesday                  151 commits         ██████████░░░░░░░░░░░░░░░   38.32 % 
+Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Friday                   75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
 Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
 
- Last Updated on 08/09/2026 03:18:11 UTC
+ Last Updated on 09/09/2026 03:20:55 UTC
 <!--END_SECTION:waka-->
